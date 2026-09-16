@@ -1,3 +1,1 @@
-# Gold Desk
-Web app for XAUUSD liquidity zones, entries, SL/TP, news, and sweep alerts.
-Open index.html or GitHub Pages after enabling it.
+Gold Desk live M15 setups. Open https://gold-desk-ipad-hemeida.vercel.app
