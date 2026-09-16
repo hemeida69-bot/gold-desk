@@ -1,0 +1,10 @@
+{
+  "name": "Gold Desk",
+  "short_name": "GoldDesk",
+  "display": "standalone",
+  "background_color": "#0b0d10",
+  "theme_color": "#0b0d10",
+  "start_url": "./",
+  "dir": "rtl",
+  "lang": "ar"
+}
